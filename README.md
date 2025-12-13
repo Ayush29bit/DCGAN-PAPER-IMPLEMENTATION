@@ -9,7 +9,7 @@ The goal is to understand why DCGAN training is stable, what architectural decis
 
 ## Theory Background
 
-### Original GAN (2014) — What You’ll Understand
+### Original GAN (2014) 
 
 *Minimax objective
 
@@ -21,7 +21,7 @@ The goal is to understand why DCGAN training is stable, what architectural decis
 
 *Source of mode collapse
 
-### DCGAN (2015) — Why It Works
+### DCGAN (2015)
 
 *DCGAN stabilizes GANs by enforcing:
 
