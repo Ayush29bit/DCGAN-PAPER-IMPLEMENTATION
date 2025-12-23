@@ -38,3 +38,7 @@ BatchNorm in both G and D
 *Normal weight initialization
 
 **This repository follows these design principles precisely.**
+
+### Link to the papers
+##### GAN (GOODFELLOW et al.) - https://arxiv.org/abs/1406.2661
+##### DCGAN ( Radford et al.) - https://arxiv.org/abs/1511.06434
